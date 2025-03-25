@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+textblob
+matplotlib
+openpyxl
 -e .
